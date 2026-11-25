@@ -47,7 +47,7 @@ data is regenerated each time):
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/ML-Eye-Disease-Drug-Nutrition-Prediction-Topological-Indices.git
+git clone https://github.com/M-Jayakumaran29/ML-Eye-Disease-Drug-Nutrition-Prediction-Topological-Indices.git
 cd ML-Eye-Disease-Drug-Nutrition-Prediction-Topological-Indices
 pip install -r requirements.txt
 python eye_disease_system.py
