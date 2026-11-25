@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+networkx
+matplotlib
+seaborn
+# Optional: adds an XGBoost model to the ensemble
+xgboost
+# Optional: more accurate SMILES -> molecular graph parsing
+# rdkit

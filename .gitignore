@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Trained models (regenerated on every run; never load untrusted pickles)
+*.pkl
+*.joblib
+
+# Charts written by the script at runtime (curated copies live in images/)
+/*.png
+
+# Archives and slide decks
+*.zip
+*.pptx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
