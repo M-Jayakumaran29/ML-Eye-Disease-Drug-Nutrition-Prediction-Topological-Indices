@@ -1,4 +1,4 @@
-# VisionCheck — Eye Disease Predictor
+# ML-Based System for Prediction of Disease, Drugs, and Nutritional Interventions for Eye Disorders Using Topological Indices
 
 Predicts likely eye diseases from a list of symptoms, then recommends drugs and foods for the predicted disease.
 Disease prediction uses an ensemble of machine-learning models. Drug recommendation uses **graph-theoretic
@@ -47,8 +47,8 @@ data is regenerated each time):
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/visioncheck-eye-disease-predictor.git
-cd visioncheck-eye-disease-predictor
+git clone https://github.com/<your-username>/ML-Eye-Disease-Drug-Nutrition-Prediction-Topological-Indices.git
+cd ML-Eye-Disease-Drug-Nutrition-Prediction-Topological-Indices
 pip install -r requirements.txt
 python eye_disease_system.py
 ```
